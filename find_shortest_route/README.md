@@ -9,3 +9,6 @@ The data available are organized as such:
 Using the information provided I'll build two main functionalities:
 - *Shortest ordered route*: given an input of a starting node, an arbitrary number of other nodes and a distance type (time, space, graph distance) the algorithm will provide the shortest ordered route and plot it on a map.
 - *Shortest route*: given an input of a starting node, an arbitrary number of other nodes and a distance type (time, space, graph distance) the algorithm will provide the shortest route necessary to visit all nodes and plot it on a map.
+
+
+n.b If the map is not shown correctly in the notebook you can find it in the data directory.

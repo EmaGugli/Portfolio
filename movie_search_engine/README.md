@@ -9,4 +9,4 @@ index.py: a python file that once executed generate two documents. The first one
 main.py: a python file that execute one of the 3 search engines. It will ask for the kind of Search Engine we want to use and the query (words separated by a space). This file needs the documents Vocabulary.txt and InvertedIndex.txt to work.
 It returns the list of the movies that best mecht the query.
 
-main.ipynb: a compiled notebook with the execution step-by-step of main.py.
+**main.ipynb**: a compiled notebook with the execution step-by-step of main.py.
